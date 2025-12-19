@@ -45,7 +45,7 @@ npm install
 npm run dev
 
 
-Open http://localhost:5173
+Open http://localhost:5174
 
 ## 🧠 Architecture Decisions
 
@@ -99,4 +99,4 @@ Keyboard navigation and screen reader announcements
 ## 🌍 Live Demo
 
 Live URL:
-👉 https://<your-deployed-app-url>
+👉 https://kanban-board-2ipj.vercel.app/
